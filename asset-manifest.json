@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EmrApp/static/css/main.fef23489.css",
+    "main.js": "/EmrApp/static/js/main.eecffa45.js",
+    "static/js/453.96453769.chunk.js": "/EmrApp/static/js/453.96453769.chunk.js",
+    "index.html": "/EmrApp/index.html",
+    "main.fef23489.css.map": "/EmrApp/static/css/main.fef23489.css.map",
+    "main.eecffa45.js.map": "/EmrApp/static/js/main.eecffa45.js.map",
+    "453.96453769.chunk.js.map": "/EmrApp/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef23489.css",
+    "static/js/main.eecffa45.js"
+  ]
+}
