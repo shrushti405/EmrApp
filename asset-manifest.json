@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/emr_frontend/static/css/main.363eb088.css",
-    "main.js": "/emr_frontend/static/js/main.eb590b5a.js",
-    "static/js/453.96453769.chunk.js": "/emr_frontend/static/js/453.96453769.chunk.js",
-    "index.html": "/emr_frontend/index.html",
-    "main.363eb088.css.map": "/emr_frontend/static/css/main.363eb088.css.map",
-    "main.eb590b5a.js.map": "/emr_frontend/static/js/main.eb590b5a.js.map",
-    "453.96453769.chunk.js.map": "/emr_frontend/static/js/453.96453769.chunk.js.map"
+    "main.css": "/EmrApp/static/css/main.363eb088.css",
+    "main.js": "/EmrApp/static/js/main.0bc59c00.js",
+    "static/js/453.96453769.chunk.js": "/EmrApp/static/js/453.96453769.chunk.js",
+    "index.html": "/EmrApp/index.html",
+    "main.363eb088.css.map": "/EmrApp/static/css/main.363eb088.css.map",
+    "main.0bc59c00.js.map": "/EmrApp/static/js/main.0bc59c00.js.map",
+    "453.96453769.chunk.js.map": "/EmrApp/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.363eb088.css",
-    "static/js/main.eb590b5a.js"
+    "static/js/main.0bc59c00.js"
   ]
 }
